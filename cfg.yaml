@@ -1,0 +1,26 @@
+filegroup: type1
+columns:
+  - Index
+  - Customer Id
+  - First Name
+  - Last Name
+  - Company
+  - City
+  - Country
+  - Phone 1
+  - Phone 2
+  - Email
+  - Subscription Date
+  - Website
+
+list_of_files:
+  - customers-100.csv
+  - customers-50.csv
+
+arrival_time_start:
+  - 0900
+
+arrival_time_end:
+  - 1800
+  
+
